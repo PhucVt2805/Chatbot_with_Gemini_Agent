@@ -1,0 +1,12 @@
+faiss-cpu
+langchain
+langchain_community
+langchain_huggingface
+langchain_google_genai
+numexpr
+pypdf
+rapidocr-onnxruntime
+streamlit
+tavily-python
+tf-keras
+wikipedia
